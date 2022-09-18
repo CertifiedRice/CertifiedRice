@@ -1,16 +1,11 @@
-### Hi there 👋
+### CertifiedRice
+An aspiring Indie Game Developer and Web Developer
 
-<!--
-**CertifiedRice/CertifiedRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on nothing right now
+- 🌱 I’m currently learning Robotics
+- 👯 I’m looking to collaborate on OpenSource Projects
+- 🤔 I’m looking for help with Unreal Engine
+- 💬 Ask me about Lua, Java, C#
+- 📫 How to reach me: Discord: Certified Rice#8386
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am Vietnamese!
