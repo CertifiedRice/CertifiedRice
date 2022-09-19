@@ -15,9 +15,8 @@ An aspiring Indie Game Developer and Web Developer
 Development Stack:
 
   Game Development:
-    Game Engine: Unity
-    Language: C#
-    IDE: Jetbrains Rider
+    Game Engine: Unity, Roblox Studio, GoDot
+    Language: C#, Lua, Python
     
     
     Web Development:
