@@ -15,8 +15,8 @@ An aspiring Indie Game Developer and Web Developer
 Development Stack:
 
   Game Development:
-    Game Engine: Unity, Roblox Studio, GoDot
-    Language: C#, Lua, Python
+    Game Engines: Unity, Roblox Studio, GoDot
+    Languages: C#, Lua, Python
     
     
     Web Development:
