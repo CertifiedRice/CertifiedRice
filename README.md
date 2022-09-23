@@ -26,6 +26,7 @@ Development Stack:
       Language: Typescript, Javascript
       Data Base: MySQL
       OS: Ubuntu Linux
+      Cloud: FireBase, Heroku, Vercel, Azure
       Back-end: ExpressJS
       
 
