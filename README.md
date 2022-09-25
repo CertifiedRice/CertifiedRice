@@ -63,3 +63,5 @@ Development Stack:
 </div>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wp8fzs5czayuwxt8czi33dtq7)
