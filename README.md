@@ -1,14 +1,6 @@
 ### CertifiedRice
 An aspiring Indie Game Developer and Web Developer
 
-- 🔭 I’m currently [Salmon Game Engine](https://github.com/certifiedrice/salmon)
-- 🌱 I’m currently learning Robotics
-- 👯 I’m looking to collaborate on [Salmon Game Engine](https://github.com/certifiedrice/salmon)
-- 💬 Ask me about Lua, Java, C#
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Vietnamese!
-
-
 ```
 Development Stack:
 
