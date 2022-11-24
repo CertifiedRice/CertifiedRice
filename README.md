@@ -1,5 +1,6 @@
 ### CertifiedRice
-An aspiring Indie Game Developer and Web Developer
+Game Developer\
+Front-end web developer
 
 ```
 Development Stack:
